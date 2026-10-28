@@ -1,7 +1,7 @@
 {
   "name": "Aventura de las Tablas",
   "short_name": "Tablas",
-  "description": "Aprende las tablas de multiplicar jugando.",
+  "description": "Suma, resta, multiplica y divide jugando.",
   "lang": "es",
   "start_url": "./",
   "scope": "./",
